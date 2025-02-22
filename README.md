@@ -13,9 +13,9 @@ src="https://camo.githubusercontent.com/ac5f575970af9045d6cbd3dfde766f01b9c664b6
 <p align="left" dir="auto"> <a href="mailto:gagan4kumarsingh@gmail.com"> <img src="https://camo.githubusercontent.com/e3938fb4854f33d0ba3992f35cf06985aa60e20756201982ae962459b097eb10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163685f746f5f6d655f7669615f4d61696c5f2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d70696e6b" alt="Mail" data-canonical-src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&amp;logo=gmail&amp;logoColor=pink" style="max-width: 100%;"> </a>
 </p>
 
-- 🌱 I’m currently learning **Java and DSA**
+- 🌱 I’m currently learning **DSA Using Java and As well as Full Stack Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **DSA and Full Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
