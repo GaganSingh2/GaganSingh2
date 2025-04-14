@@ -28,9 +28,9 @@ src="https://camo.githubusercontent.com/ac5f575970af9045d6cbd3dfde766f01b9c664b6
 <a href="https://stackoverflow.com/users/26995628" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26995628" height="30" width="40" />
 </a>
-<a href="https://instagram.com/rajputt_rai_gagan__18" target="blank">
+<!-- <a href="https://instagram.com/rajputt_rai_gagan__18" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajputt_rai_gagan__18" height="30" width="40" />
-</a>
+</a> -->
 <a href="https://www.hackerrank.com/gks022004" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gks022004" height="30" width="40" />
 </a>
