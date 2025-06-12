@@ -25,7 +25,7 @@ src="https://camo.githubusercontent.com/ac5f575970af9045d6cbd3dfde766f01b9c664b6
 <a href="https://linkedin.com/in/gagan-kumar-singh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan-kumar-singh" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/26995628" target="blank">
+<a href="https://www.naukri.com/code360/profile/GoGo" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26995628" height="30" width="40" />
 </a>
 <!-- <a href="https://instagram.com/rajputt_rai_gagan__18" target="blank">
