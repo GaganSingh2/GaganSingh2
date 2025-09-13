@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="480" height="330" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/refs/heads/master/data/lofi.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagansingh2&label=Profile%20views&color=0e75b6&style=flat" alt="gagansingh2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagansingh2&label=Profile%20views&color=0e75b6&style=flat" alt="gagansingh2" /> </p>hhgbbhh
 
 <p align="left"> <a href="https://www.linkedin.com/in/gagan-kumar-singh/" target="blank"><img src="https://img.shields.io/twitter/follow/GaganSingh2?logo=linkdin&style=for-the-badge" alt="GaganSingh2" /></a> </p>
 
