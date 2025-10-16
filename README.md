@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/gagan-kumar-singh/" target="blank"><img src="https://img.shields.io/twitter/follow/GaganSingh2?logo=linkdin&style=for-the-badge" alt="GaganSingh2" /></a> </p>
 
-<p align="left" dir="auto"> <a href="https://drive.google.com/file/d/1MQ6LAIkYGz8c3X0s0MV2br4Oe2NNXzhE/view?usp=drive_link" rel="nofollow">  <img 
-src="https://camo.githubusercontent.com/ac5f575970af9045d6cbd3dfde766f01b9c664b6e2de7a718331e4fca3cd9dd6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d655f2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d66696c6573266c6f676f436f6c6f723d677265656e" alt="Resume" data-canonical-src="https://drive.google.com/file/d/1K0I-JVtZsUKsIcHUyKRqf1eCk8lOn5P7/view?usp=drive_link;logo=files&amp;logoColor=green" style="max-width: 100%;"> </a>
+<p align="left" dir="auto"> <a href="https://drive.google.com/file/d/1K0I-JVtZsUKsIcHUyKRqf1eCk8lOn5P7/view?usp=sharing" rel="nofollow">  <img 
+src="https://camo.githubusercontent.com/ac5f575970af9045d6cbd3dfde766f01b9c664b6e2de7a718331e4fca3cd9dd6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d655f2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d66696c6573266c6f676f436f6c6f723d677265656e" alt="Resume" data-canonical-src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&amp;logoColor=green" style="max-width: 100%;"> </a>
 </p>
 <p align="left" dir="auto"> <a href="mailto:gagan4kumarsingh@gmail.com"> <img src="https://camo.githubusercontent.com/e3938fb4854f33d0ba3992f35cf06985aa60e20756201982ae962459b097eb10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163685f746f5f6d655f7669615f4d61696c5f2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d70696e6b" alt="Mail" data-canonical-src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&amp;logo=gmail&amp;logoColor=pink" style="max-width: 100%;"> </a>
 </p>
