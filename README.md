@@ -22,20 +22,20 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://drive.google.com/file/d/17dRVdE9138UAelWiLFStB8K4sGCkdJxz/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-FF6B35?style=flat-square&logo=readthedocs&logoColor=white"/>
+</a>
+
 <a href="mailto:gagan4kumarsingh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://codolio.com/profile/Gagan_" target="_blank">
-  <img src="https://img.shields.io/badge/Codolio-DSA%20Profile-6C5CE7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Codolio-DSA%20Profiles-6C5CE7?style=flat-square"/>
 </a>
 
 <a href="https://leetcode.com/gogo_018" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-400%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/gks022004" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2%20Star-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://github.com/GaganSingh2" target="_blank">
@@ -403,10 +403,14 @@ A frontend-focused e-commerce application with product browsing and category-bas
   </a> 
   <a href="https://github.com/GaganSingh2"> 
     <img src="https://img.shields.io/badge/GitHub-GaganSingh2-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-  </a> 
+  </a>  <br/>
   <a href="https://codolio.com/profile/Gagan_"> 
-    <img src="https://img.shields.io/badge/Codolio-Gagan_-6C5CE7?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/Codolio-DSA JOURNEY_-6C5CE7?style=for-the-badge"/> 
   </a> 
+  <a href="https://drive.google.com/file/d/17dRVdE9138UAelWiLFStB8K4sGCkdJxz/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-6C5CE7?style=for-the-badge&logoColor=white"/>
+  </a>
+
 </p> 
 <p align="center"> 
   <a href="https://leetcode.com/gogo_018"> 
