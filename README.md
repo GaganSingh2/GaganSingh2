@@ -2,7 +2,7 @@
 <!--                        HEADER                          -->
 <!-- ====================================================== -->
 
-<div align="center"> hiiii
+<div align="center">
 
 <h1>👋 Hey, I'm Gagan Kumar Singh</h1>
 
