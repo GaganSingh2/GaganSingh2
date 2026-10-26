@@ -133,6 +133,10 @@ I'm a **Java Full Stack Developer** passionate about building **scalable backend
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </a>
 
+<a href="https://docs.spring.io/spring-security/reference" target="_blank">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</a>
+
 <a href="https://hibernate.org/" target="_blank">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </a>
